@@ -5,7 +5,7 @@ If you just want to run it on your smartphone go visit Google Play and search fo
 # Development instructions (Linux)
 
 The app is based on Facebook's react native. So it is certainly helpful if you first
-follow theire [Tutorial](https://facebook.github.io/react-native/docs/tutorial.html#content).
+follow their [Tutorial](https://facebook.github.io/react-native/docs/tutorial.html#content).
 The content for the app comes from http://korbball.turnverband.ch/ws/ and 
 http://korbball.info/admindb/ws/. The app just consumes those APIs and assembles it
 to a pleasant form.
